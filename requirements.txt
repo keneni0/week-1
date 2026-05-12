@@ -7,3 +7,5 @@ scikit-learn
 wordcloud
 jupyter
 pytest
+yfinance
+pynance
